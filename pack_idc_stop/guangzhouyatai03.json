@@ -1,0 +1,5 @@
+{
+"pack_name":["yc_login","yc_chat2","nmob_outbox_proxy","nmob_outbox","nmob_inbox_proxy","nmob_inbox","nmob_group_media","nmob_weihui_room","nmob_group_mic","nmob_group_info","nmob_group_chat","nmob_group_proxy","nmob_group_cache","nmob_push_scheduler","nmob_sms_scheduler","duang_login","duang_chat","nmob_outbox_proxy","duang_groupmedia","duang_weihuiroom","duang_groupmic","duang_groupinfo","duang_groupchat","duang_group_proxy","duang_groupcache","mob_yygw","nmob_vc","yc_msc_d","yc_vmsc_d","yc_listfront","yc_listlogin","yc_listcore","nmob_miproxy","nmob_miquery","duang_listfront","duang_listlogin","duang_listcore","nmob_invite_url_d","yc_redpacket","nmob_front_official","nmob_official_chat","nmob_vip_query","nmob_wh_purchase","mob_callback_fee","duang_front_official","duang_official_chat","duang_purchase_proxy","duang_purchase"],
+"idc_name":"广州亚太双线-03",
+"comment":"目前仅支持一个机房"
+}
